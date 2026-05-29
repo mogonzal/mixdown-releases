@@ -10,6 +10,7 @@ Go to the [latest release](https://github.com/mogonzal/mixdown-releases/releases
 |----------|------|
 | macOS (Apple Silicon) | `Mixdown-{version}-arm64.dmg` |
 | macOS (Intel) | `Mixdown-{version}-x64.dmg` |
+| Windows (x64) | `Mixdown-{version}-x64.exe` |
 
 ## Features
 
@@ -26,6 +27,7 @@ Go to the [latest release](https://github.com/mogonzal/mixdown-releases/releases
 ## System Requirements
 
 - macOS 12+ (Apple Silicon or Intel)
+- Windows 10/11 (x64)
 
 ## Issues
 
