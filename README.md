@@ -12,18 +12,6 @@ Go to the [latest release](https://github.com/mogonzal/mixdown-releases/releases
 | macOS (Intel) | `Mixdown-{version}-x64.dmg` |
 | Windows (x64) | `Mixdown-{version}-x64.exe` |
 
-## Features
-
-- Dual-deck layout with crossfader and 3-band EQ
-- Scratching and Master Tempo (key lock)
-- Automatic BPM detection, key detection, and beatgrid generation
-- Waveform display with beat markers
-- 8 hot cue pads per deck with looping controls
-- Effects: Filter, Echo, Delay, Reverb, Flanger, Phaser, Beat Repeat, Noise
-- Beat sync with phase alignment
-- MIDI controller support
-- Keyboard-first workflow
-
 ## System Requirements
 
 - macOS 12+ (Apple Silicon or Intel)
